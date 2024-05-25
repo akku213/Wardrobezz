@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d40c0940.css",
+    "main.js": "/static/js/main.d9349ef6.js",
+    "static/media/sent.jpg": "/static/media/sent.3a9028b9017607da14bd.jpg",
+    "static/media/Raj srivastav Resume.pdf": "/static/media/Raj srivastav Resume.cb660267b7ef1f0fa786.pdf",
+    "static/media/logo2.png": "/static/media/logo2.6acf6fb9020911021f4d.png",
+    "static/media/profile.png": "/static/media/profile.921dff757ad07190be75.png",
+    "static/media/Footerlogo.jpeg": "/static/media/Footerlogo.9ebf7fa9e3cca16e35a2.jpeg",
+    "static/media/woman-working-new-app_23-2148682102.avif": "/static/media/woman-working-new-app_23-2148682102.175986f9707bc0b2a94f.avif",
+    "index.html": "/index.html",
+    "main.d40c0940.css.map": "/static/css/main.d40c0940.css.map",
+    "main.d9349ef6.js.map": "/static/js/main.d9349ef6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d40c0940.css",
+    "static/js/main.d9349ef6.js"
+  ]
+}
